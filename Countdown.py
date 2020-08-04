@@ -1,4 +1,5 @@
-#Designed for use in OBS: Countdown to a certain timestamp in the future, when achieved, display 00:00
+#Designed for use in OBS: Countdown to a certain timestamp in the future, 
+# when achieved, display 00:00
 
 from time import sleep
 import datetime
