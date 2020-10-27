@@ -2,7 +2,7 @@
 Take a non-dated timestamp and countdown to it. Save the time to a txt file so it can be read by OBS.
 
 This was a small project developed for the 2020 Calgary Fringe, which was performed online as a result of the Covid-19 Shutdown. 
-It is provided AS IS with no guarantee on functionality
+It is provided AS IS with no guarantee on functionality. For highest compatibility, Python 3.8 is recommended, as that is the version the app is written in
 
 # Getting Started
 
